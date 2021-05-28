@@ -12,7 +12,8 @@
 #include <queue>
 using namespace std;
 
-//±©¡¶∑®≥¢ ‘
+//violence method-attempt
+//can not pass 57 / 67
 class Solution {
 public:
     vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
